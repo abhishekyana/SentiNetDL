@@ -1,4 +1,4 @@
-# SentiNetDL
+# SentiNet Deep Learning Model.
 Sentiment Analysis Net = SentiNet, trained on over 1.6 million sentences.
 
 ```
